@@ -1,2 +1,2 @@
 # PHP-Form-Validation-System
-Best form validation system for php
+In this coding tutorials you will completely learn how to code PHP form validation from scratch. In this tutorial you will get access to know more about validation input fields, Uploading only image file, Successfully sending email varification for new account creating. If you someone forget his/her password they will easily recover their password using their email wich is already registered in the system.So, What are waiting for? Go and look the codes how it works!
